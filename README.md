@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robim-gabriel
-- 👀 I’m interested in Technology and Stock Investing
+- 👀 I’m interested in Back-End Development and Stock Investing
 - 🌱 I’m currently learning Management Information Systems at University of Minho
 
 <!---
