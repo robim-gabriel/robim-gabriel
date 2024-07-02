@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robim-gabriel
 - 👀 I’m interested in Back-End Development and Stock Investing
-- 🌱 I’m currently learning Management Information Systems at University of Minho
+- 🌱 I’m currently learning Engineering and Management of Information Systems at University of Minho
 
 <!---
 robim-gabriel/robim-gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
